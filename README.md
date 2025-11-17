@@ -17,7 +17,9 @@
 
 Um projeto experimental e educativo que usa PoseNet (ml5.js) para controlar um quadrado em tempo real através do movimento do corpo.
 
-O usuário ajusta o tamanho movendo os pulsos, e controla a posição movimentando o nariz, criando uma experiência divertida de interação entre IA + p5.js + vídeo ao vivo.## 🧰 Tecnologias Utilizadas
+O usuário ajusta o tamanho movendo os pulsos, e controla a posição movimentando o nariz, criando uma experiência divertida de interação entre IA + p5.js + vídeo ao vivo.
+
+## 🧰 Tecnologias Utilizadas
 
 | Categoria | Detalhes |
 |------------|-----------|
